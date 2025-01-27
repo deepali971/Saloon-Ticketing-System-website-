@@ -39,15 +39,12 @@ The Saloon Ticketing System is a Python-based application designed to simplify t
 ## Screenshots
 - Screenshots to visually represent the GUI
 - Login Page
-- <img src="![step1-login](https://github.com/user-attachments/assets/a414b046-af47-4542-99db-ae7139848893)" alt="Alt Text" style="width:50%; height:auto;">
-<img src="![step1-login](https://github.com/user-attachments/assets/a414b046-af47-4542-99db-ae7139848893)" alt="Alt Text" width="300" height="200">
+- ![step1-login](https://github.com/user-attachments/assets/a414b046-af47-4542-99db-ae7139848893)
 - Service Selection
-- <img src="![step2-generating ticket](https://github.com/user-attachments/assets/d8ddc0ba-dfb6-4119-b654-4786b3e8dc1b)" alt="Alt Text" style="width:50%; height:auto;">
-- <img src=" ![step2-generating ticket](https://github.com/user-attachments/assets/d8ddc0ba-dfb6-4119-b654-4786b3e8dc1b)" alt="Alt Text" width="300" height="200">
+- ![step2-generating ticket](https://github.com/user-attachments/assets/d8ddc0ba-dfb6-4119-b654-4786b3e8dc1b)
 - Ticket Generation
-- <img src="![step3-ticket generated](https://github.com/user-attachments/assets/d94acbbd-67e7-4b71-bdf4-4f42c771e1e0)" alt="Alt Text" style="width:50%; height:auto;">
-- <img src="![step3-ticket generated](https://github.com/user-attachments/assets/d94acbbd-67e7-4b71-bdf4-4f42c771e1e0)" alt="Alt Text" width="300" height="200">
-
+- ![step3-ticket generated](https://github.com/user-attachments/assets/d94acbbd-67e7-4b71-bdf4-4f42c771e1e0)
+  
 ## Future Enhancements
 - Add dynamic service management (add/update/delete services).
 - Implement advanced reporting and analytics.
