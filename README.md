@@ -39,16 +39,15 @@ The Saloon Ticketing System is a Python-based application designed to simplify t
 ## Screenshots
 - Screenshots to visually represent the GUI
 - Login Page
-- ![step1-login](https://github.com/user-attachments/assets/a414b046-af47-4542-99db-ae7139848893)
+- <img src="![step1-login](https://github.com/user-attachments/assets/a414b046-af47-4542-99db-ae7139848893)" alt="Alt Text" width="300" height="200">
 - Service Selection
-- ![step2-generating ticket](https://github.com/user-attachments/assets/d8ddc0ba-dfb6-4119-b654-4786b3e8dc1b)
+- <img src=" ![step2-generating ticket](https://github.com/user-attachments/assets/d8ddc0ba-dfb6-4119-b654-4786b3e8dc1b)" alt="Alt Text" width="300" height="200">
 - Ticket Generation
-- ![step3-ticket generated](https://github.com/user-attachments/assets/d94acbbd-67e7-4b71-bdf4-4f42c771e1e0)
+- <img src="![step3-ticket generated](https://github.com/user-attachments/assets/d94acbbd-67e7-4b71-bdf4-4f42c771e1e0)" alt="Alt Text" width="300" height="200">
 
 ## Future Enhancements
 - Add dynamic service management (add/update/delete services).
 - Implement advanced reporting and analytics.
 - Enhance security with hashed passwords and role-based access.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
